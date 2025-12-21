@@ -1,2 +1,7 @@
-# design-patterns-uni
-This repository contains the project for the Design Patterns module, focusing on the study and application of SOLID principles and common software design patterns.
+# Design Patterns Projet
+
+**Réalisé par:**
+- **Mohamed Anas Charkaoui**
+- **Akram El Assri**
+
+Ce dépot contient le projet pour le module de *Design Pattern*. Il met l'accent sur l'étude et l'application des principes *SOLID* et quelques *Patrons de Conception* couramment utilisés.
