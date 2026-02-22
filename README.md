@@ -56,3 +56,7 @@ Un ensemble de 5 pratiques qui compose l'acronyme solid
 ## Design Patterns
 
 Ces patterns sont des solutions a des problemes courrament recontre
+
+- [Composite Pattern](./design-patterns/composite-pattern/README.md)
+- [Prototype Pattern](./design-patterns/prototype-pattern/README.md)
+- [State Pattern](./design-patterns/state-pattern/README.md)
