@@ -51,7 +51,7 @@ copy.setHealth(50);            // ceci modifie aussi original — comportement i
 Le patron Prototype énonce que **plutôt que de créer un nouvel objet from scratch, on clone un objet existant et on modifie uniquement ce qui doit changer**. L'objet lui-même est responsable de sa propre copie.
 
 Pour mieux visualiser la structure du patron, voir :
-![Prototype pattern class diagram] (./prototype_diagram.png)
+![Prototype pattern class diagram](./prototype_diagram.png)
 
 ## Solution
 
