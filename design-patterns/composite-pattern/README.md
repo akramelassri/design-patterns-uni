@@ -1,7 +1,3 @@
-Here is the text formatted into clean, readable Markdown. I have converted the code examples to **Java** to match our previous context, and I have placed the diagrams where they fit best.
-
----
-
 # The Composite Pattern: The "Box Inside a Box" Strategy
 
 **Definition:** The Composite pattern is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.

@@ -45,7 +45,9 @@ Plusieurs pratiques ont été développées pour atteindre cet objectif, parmi l
 
 ## SOLID
 
-Un ensemble de 5 pratiques qui compose l'acronyme solid
+Les principes SOLID sont un ensemble de 5 pratiques de conception orientée objet formulées par Robert C. Martin. Leur objectif est de guider le développeur vers un code modulaire, extensible et maintenable. Respecter ces principes réduit directement le couplage et augmente la cohésion.
+
+Les voici :
 
 - [Single Responsibility Principle](./solid/srp/README.md)
 - [Open Closed Principle](./solid/ocp/README.md)
@@ -55,7 +57,9 @@ Un ensemble de 5 pratiques qui compose l'acronyme solid
 
 ## Design Patterns
 
-Ces patterns sont des solutions a des problemes courrament recontre
+Les Design Patterns sont des solutions éprouvées à des problèmes récurrents de conception logicielle. Ils ont été formalisés par le Gang of Four (GoF) dans leur ouvrage de référence publié en 1994. Ce ne sont pas des morceaux de code à copier-coller, mais des schémas de conception réutilisables que l'on adapte à son contexte. Ils se divisent en trois catégories : les patrons de création (comment créer les objets), les patrons structurels (comment les composer), et les patrons comportementaux (comment ils communiquent).
+
+Dans ce projet, on verra trois design patterns qui sont:
 
 - [Composite Pattern](./design-patterns/composite-pattern/README.md)
 - [Prototype Pattern](./design-patterns/prototype-pattern/README.md)
